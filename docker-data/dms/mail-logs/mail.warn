@@ -1,0 +1,2 @@
+Feb 29 22:42:01 mail amavis[733]: (!)Net::Server: 2024/02/29-22:42:01 Re-exec server during HUP
+Feb 29 22:42:01 mail dovecot: master: Warning: SIGHUP received - reloading configuration
